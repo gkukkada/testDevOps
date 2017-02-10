@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-<h4>Hello</h4>
-=======
 
->>>>>>> e2e18f9c1241e52ecc0ae13540b44fbbed2c7a28
 </body>
 </html>
